@@ -1,0 +1,3 @@
+v = :centenial
+
+puts v
